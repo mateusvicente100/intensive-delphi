@@ -1,0 +1,12 @@
+{
+	"name": "api-relatorios",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "src",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/horse": "^v2.0.6",
+		"github.com/hashload/horse-octet-stream": "^1.9.2"
+	}
+}
