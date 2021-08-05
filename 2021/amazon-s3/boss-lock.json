@@ -1,0 +1,14 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2021-08-04T21:37:58.4995005-03:00",
+	"installedModules": {
+		"github.com/mateusvicente100/amazon-storage-service": {
+			"name": "amazon-storage-service",
+			"version": "1.0.1",
+			"hash": "7e2d03255503117792e20d8f55643610",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}

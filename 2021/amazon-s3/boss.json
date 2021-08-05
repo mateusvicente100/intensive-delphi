@@ -1,0 +1,11 @@
+{
+	"name": "amazon-s3",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "src",
+	"projects": [],
+	"dependencies": {
+		"github.com/mateusvicente100/amazon-storage-service": "^1.0.1"
+	}
+}
